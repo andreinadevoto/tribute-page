@@ -1,0 +1,43 @@
+html {
+  background-color: white;
+  margin: 0;
+  font-family: "Raleway", sans-serif;
+}
+main {
+  background-color: #fbf5ef;
+  margin: 20px;
+  text-align: center;
+  border-radius: 1%;
+  padding: 10px 0;
+}
+
+#img-div {
+  background-color: #fefcfb;
+  width: 70%;
+  margin: auto;
+  padding: 30px 120px;
+  border-radius: 1%;
+}
+
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+#img-caption {
+  padding: 10px 0 0;
+}
+
+ul {
+  text-align: left;
+  width: 60%;
+  margin: auto;
+}
+li {
+  line-height: 1.5;
+}
+
+#info {
+  margin: auto;
+  text-align: center;
+}
